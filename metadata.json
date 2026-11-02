@@ -1,0 +1,6 @@
+{
+  "name": "TEYVARA: The Artist's Journey - Game PSV Tahun 3",
+  "description": "Game pendidikan Pendidikan Seni Visual (PSV) Tahun 3 KSSR bertemakan RPG anime fantasi. Pelajari asas lukisan, garisan, media kering, dan pemerhatian bersama Aira, Kael, dan Mira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
